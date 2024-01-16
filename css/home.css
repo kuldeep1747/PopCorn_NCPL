@@ -1940,4 +1940,14 @@ margin-left: 10px;
 @media (max-width: 706px) {
 
 }
+.container1{
+  display: flex;
+ 
+  background-size: cover; /* Adjust this value based on your preference */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
+    background-attachment: fixed; /
+}
+
+
+
 
